@@ -17,7 +17,7 @@
     "deepmerge": "^4.0.0",
     "rimraf": "^3.0.2",
     "vue": "^2.6.11",
-    "vuetify": "^2.6.6"
+    "vuetify": "^3.0.0"
   },
   "devDependencies": {
     "@babel/node": "^7.5.5",
